@@ -1,0 +1,7 @@
+Hello all
+first you need to install python 
+then install mysql
+then connect the VE AND DB 
+and the code should be fine and functional 
+
+Best Regards Murseli  :)
