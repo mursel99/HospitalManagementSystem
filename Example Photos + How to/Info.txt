@@ -3,5 +3,7 @@ first you need to install python
 then install mysql
 then connect the VE AND DB 
 and the code should be fine and functional 
+Example :
+https://in.video.search.yahoo.com/search/video;_ylt=AwrPpGWStK1iXo4T_Sm7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=python+mysql+database+connectivity-mysql+connector&fr2=piv-web&type=E211IN826G0&fr=mcafee&guccounter=1#id=1&vid=c1610a5beb33b917993e0c83024ee14c&action=view
 
 Best Regards Murseli  :)
